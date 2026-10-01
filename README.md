@@ -8,6 +8,7 @@ I like projects that reach real users and experiments that can be checked. My re
 
 | Project | What it explores |
 | --- | --- |
+| [FINTRACE](https://github.com/KSG-SHRI/fintrace) | Auditable as-of market forensics MVP: timestamp gates, evidence-linked co-movement analysis, and tamper checks. |
 | [DevShow](https://github.com/KSG-SHRI/dev_show) | Flutter and Supabase app for developers to share and discuss projects. |
 | [Sparkweb](https://github.com/KSG-SHRI/spark_web) | Web tooling for educational administration. |
 | [Unmask](https://github.com/KSG-SHRI/unmask) | Source-grouped deepfake face-crop benchmark showing why simple visual cues do not reliably generalize. |
