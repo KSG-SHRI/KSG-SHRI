@@ -1,26 +1,24 @@
 # Shri Ganeshan K
 
-Mechanical Engineering undergraduate at **NIT Puducherry (Class of 2028)** building software across web, mobile, Linux, and applied machine learning.
+Software engineer and applied ML builder focused on reliable, user-facing systems.
 
-I like projects that reach real users and experiments that can be checked. My recent work ranges from education platforms and developer tools to evaluating the limits of deepfake detection and EEG-based interfaces.
+I build and evaluate web platforms, developer tools, financial data systems, and ML research prototypes. My work emphasizes reproducible experiments, point-in-time correctness, security, and honest evaluation.
 
 ## Selected work
 
-| Project | What it explores |
+| Project | Technical focus |
 | --- | --- |
-| [FINTRACE](https://github.com/KSG-SHRI/fintrace) | Auditable as-of market forensics MVP: timestamp gates, evidence-linked co-movement analysis, and tamper checks. |
-| [DevShow](https://github.com/KSG-SHRI/dev_show) | Flutter and Supabase app for developers to share and discuss projects. |
+| [LEAPNITPY](https://github.com/KSG-SHRI/LEAPNITPY) | Django/PostgreSQL learning platform with Google OAuth, timed tests, results, and leaderboard; tested with hundreds of students. |
+| [FINTRACE](https://github.com/KSG-SHRI/fintrace) | Point-in-time market forensics with timestamp gates, evidence-linked reports, co-movement analysis, and leakage checks. |
+| [Unmask](https://github.com/KSG-SHRI/unmask) | Source-grouped deepfake evaluation benchmark with held-out testing and negative generalization findings. |
+| [BCI resilience](https://github.com/KSG-SHRI/bci-resilience) | PhysioNet EEG motor-imagery study of persistent electrode loss and dropout training. |
+| [DevShow](https://github.com/KSG-SHRI/dev_show) | Flutter/Supabase developer project-sharing application. |
 | [Sparkweb](https://github.com/KSG-SHRI/spark_web) | Web tooling for educational administration. |
-| [Unmask](https://github.com/KSG-SHRI/unmask) | Source-grouped deepfake face-crop benchmark showing why simple visual cues do not reliably generalize. |
-| [BCI resilience](https://github.com/KSG-SHRI/bci-resilience) | A reproducible PhysioNet pilot testing whether electrode-dropout training helps when EEG contacts fail; the initial result is negative. |
-| [Omarchy Waybar brightness control](https://www.reddit.com/r/omarchy/comments/1pjbj08/brightness_in_waybar/) | A practical Linux desktop improvement shared with the community. |
 
-## Tools I use
+## Technical stack
 
-Python · JavaScript · Dart · SQL · Bash · React · Django · Flutter · Supabase · Docker · Linux · Git
+Python · Django · PostgreSQL · JavaScript · React · Dart · Flutter · SQL · Bash · Docker · Linux · Git · GitHub Actions
 
-## Connect
+## Engineering interests
 
-[LinkedIn](https://www.linkedin.com/in/k-shri-ganeshan-13b7542a9/) · [ORCID](https://orcid.org/0000-0001-9097-501X)
-
-I’m seeking software engineering and applied research internships where I can build useful systems, test them carefully, and learn from strong teams.
+Secure-by-default web systems · reproducible ML evaluation · financial data integrity · multimodal authenticity · robust brain-computer interfaces
